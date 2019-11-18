@@ -16,14 +16,14 @@ body {
 }
 #demo {
 	background-color:#622d;
-padding: 100px;
+        padding: 100px;
 	font-size: 3em;
 	margin:0 auto;
 	color: #fff;
 	border-radius: 10px;
 	text-align:center;
 	height:100vh;
-	
+	cursor:pointer;
 	max-width:80%;
 	max-height:100%;
 }
